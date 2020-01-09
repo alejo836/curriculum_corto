@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(104, 148, 173, 0.719);
+    font-family: sans-serif;
+    text-align: justify;
+}
+h1 {
+text-align: center;
+text-transform: uppercase;
+
+}
+h2 {
+    background-color: rgb(106, 147, 170);
+    color: rgb(85, 117, 122);
+    text-decoration: underline;
+}
+h3 {
+    background-color: rgb(122, 165, 190);
+    color: rgb(85, 117, 122);
+    font-style: oblique;
+}
+p {
+   background-color: rgb(163, 159, 159); 
+}
+em {
+    color: blue;
+    font-style: unset;
+    font-weight: bold;
+}
+strong {
+    color: lightslategray;
+    font-weight: unset;
+}
+address {
+    background-color: seashell;
+    font-weight: bold;
+    text-align: right;
+}
